@@ -3,13 +3,13 @@
 
 Introduction to FullStack JavaScript: Exercises from [Week 1][1]
 
-Getting started with Node-js: Exercises from [Week 2] [2]
+Getting started with Node-js: Exercises from [Week 2][2]
 
-Promises and async/await: Exercises from [Week 3] [3]
+Promises and async/await: Exercises from [Week 3][3]
 
-ES-next, Babel, TypeScript and Webpack: Exercises from [Week 4] [4]
+ES-next, Babel, TypeScript and Webpack: Exercises from [Week 4][4]
 
-An introduction to TypeScript: Exercises from [Week 5] [5]
+An introduction to TypeScript: Exercises from [Week 5][5]
 
 
 
